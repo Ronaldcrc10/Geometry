@@ -1,0 +1,14 @@
+C:\Users\estudiantes\source\repos\Geometria\bin\Debug\net8.0\Geometria.exe
+C:\Users\estudiantes\source\repos\Geometria\bin\Debug\net8.0\Geometria.deps.json
+C:\Users\estudiantes\source\repos\Geometria\bin\Debug\net8.0\Geometria.runtimeconfig.json
+C:\Users\estudiantes\source\repos\Geometria\bin\Debug\net8.0\Geometria.dll
+C:\Users\estudiantes\source\repos\Geometria\bin\Debug\net8.0\Geometria.pdb
+C:\Users\estudiantes\source\repos\Geometria\obj\Debug\net8.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiantes\source\repos\Geometria\obj\Debug\net8.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\estudiantes\source\repos\Geometria\obj\Debug\net8.0\Geometria.AssemblyInfo.cs
+C:\Users\estudiantes\source\repos\Geometria\obj\Debug\net8.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\estudiantes\source\repos\Geometria\obj\Debug\net8.0\Geometria.dll
+C:\Users\estudiantes\source\repos\Geometria\obj\Debug\net8.0\refint\Geometria.dll
+C:\Users\estudiantes\source\repos\Geometria\obj\Debug\net8.0\Geometria.pdb
+C:\Users\estudiantes\source\repos\Geometria\obj\Debug\net8.0\Geometria.genruntimeconfig.cache
+C:\Users\estudiantes\source\repos\Geometria\obj\Debug\net8.0\ref\Geometria.dll
